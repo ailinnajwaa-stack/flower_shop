@@ -44,7 +44,11 @@ class MenuScreen extends StatelessWidget {
               ),
             ),
             const FlowerCard('rose.png', 'Red Rose itu Cinta', 'RM 45'),
-            const FlowerCard('tulip.png', 'Tulip buat mata tak berkelip', 'RM 35'),
+            const FlowerCard(
+              'tulip.png',
+              'Tulip buat mata tak berkelip',
+              'RM 35',
+            ),
             const FlowerCard('sunflower.png', 'Sunflower my Sunshine', 'RM 30'),
           ],
         ),
